@@ -1,0 +1,7 @@
+{
+  "name": "APP_RPG",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
